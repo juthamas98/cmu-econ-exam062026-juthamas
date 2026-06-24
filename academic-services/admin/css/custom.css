@@ -1,0 +1,5 @@
+#loginFrom{
+    max-width: 330px; /*ความกว้าง*/
+    margin: 0 auto; /*จัดตรงกลาง*/
+    padding: 2rem 0; /*บนล่าง 2 ซ้ายขวา 0*/
+}
